@@ -1,3 +1,5 @@
+$calc
+
 #include "iostream"
 #include "math.h"
 #include <iomanip>
@@ -115,5 +117,5 @@ void div()
 	cin >> b;
 	c = a / b;
 	cout << c;
-}                          //Пока готовы только 4 функции.
+}                          //Пока готовы только 4 функции. Остальные типы void взяты под комментарий
 
