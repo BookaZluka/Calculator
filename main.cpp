@@ -159,5 +159,23 @@ void ror()
 	cin >> a;
 	c = a >> b;
 	cout << c << endl;
- }					//Остальные типы void взяты под комментарий
+ }					
+
+void and()
+{
+	int a, b, c;
+	cin >> a;
+	cin >> b;
+	c = a & b;
+	cout << c << endl;
+}
+
+void or()
+{
+	int a, b, c;
+	cin >> a;
+	cin >> b;
+	c = a | b;
+	cout << c << endl;
+	 }				//Остальные типы void взяты под комментарий
 
