@@ -1,4 +1,4 @@
-$calc
+//$calc
 
 #include "iostream"
 #include "math.h"
